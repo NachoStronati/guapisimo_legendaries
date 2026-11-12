@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "guapisimo:fragmento_estrella" },
+    { "item": "guapisimo:fragmento_estrella" },
+    { "item": "guapisimo:fragmento_estrella" },
+    { "item": "guapisimo:fragmento_estrella" },
+    { "item": "guapisimo:fragmento_estrella" },
+    { "item": "guapisimo:fragmento_estrella" },
+    { "item": "guapisimo:fragmento_estrella" },
+    { "item": "minecraft:paper" },
+    { "item": "minecraft:string" }
+  ],
+  "result": {
+    "id": "guapisimo:estrella_deseos",
+    "count": 1
+  }
+}

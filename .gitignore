@@ -1,0 +1,16 @@
+# Gradle y compilación
+.gradle/
+build/
+out/
+run/
+
+# Configuración de IntelliJ
+.idea/
+*.iml
+
+# Jars locales (Cobblemon pesa 140 MB y GitHub no acepta más de 100 MB)
+libs/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store

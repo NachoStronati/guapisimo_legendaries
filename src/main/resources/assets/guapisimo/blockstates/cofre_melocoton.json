@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "cargado=false,facing=north": { "model": "guapisimo:block/cofre_melocoton" },
+    "cargado=false,facing=east":  { "model": "guapisimo:block/cofre_melocoton", "y": 90 },
+    "cargado=false,facing=south": { "model": "guapisimo:block/cofre_melocoton", "y": 180 },
+    "cargado=false,facing=west":  { "model": "guapisimo:block/cofre_melocoton", "y": 270 },
+    "cargado=true,facing=north":  { "model": "guapisimo:block/cofre_melocoton_cargado" },
+    "cargado=true,facing=east":   { "model": "guapisimo:block/cofre_melocoton_cargado", "y": 90 },
+    "cargado=true,facing=south":  { "model": "guapisimo:block/cofre_melocoton_cargado", "y": 180 },
+    "cargado=true,facing=west":   { "model": "guapisimo:block/cofre_melocoton_cargado", "y": 270 }
+  }
+}

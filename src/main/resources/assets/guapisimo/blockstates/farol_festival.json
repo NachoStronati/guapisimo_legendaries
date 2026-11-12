@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "hanging=false": { "model": "guapisimo:block/farol_festival" },
+    "hanging=true": { "model": "guapisimo:block/farol_festival" }
+  }
+}

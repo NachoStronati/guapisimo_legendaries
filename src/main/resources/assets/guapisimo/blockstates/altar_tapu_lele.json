@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "activo=true": {
+      "model": "guapisimo:block/altar_tapu_lele"
+    },
+    "activo=false": {
+      "model": "guapisimo:block/altar_tapu_lele_apagado"
+    }
+  }
+}

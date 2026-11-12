@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "OMF",
+    "BAB",
+    "TTT"
+  ],
+  "key": {
+    "O": { "item": "guapisimo:eslabon_okidogi" },
+    "M": { "item": "guapisimo:eslabon_munkidori" },
+    "F": { "item": "guapisimo:eslabon_fezandipiti" },
+    "B": { "item": "cobblemon:pecha_berry" },
+    "A": { "item": "minecraft:sugar" },
+    "T": { "item": "minecraft:wheat" }
+  },
+  "result": {
+    "id": "guapisimo:mochi_melocoton",
+    "count": 1
+  }
+}

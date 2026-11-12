@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PAP",
+    "AFA",
+    "PSP"
+  ],
+  "key": {
+    "P": { "item": "minecraft:pink_petals" },
+    "A": { "item": "minecraft:amethyst_shard" },
+    "F": { "item": "minecraft:feather" },
+    "S": { "item": "minecraft:spider_eye" }
+  },
+  "result": {
+    "id": "guapisimo:pluma_vanidosa",
+    "count": 1
+  }
+}

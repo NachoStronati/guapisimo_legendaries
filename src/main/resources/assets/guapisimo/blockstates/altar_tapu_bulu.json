@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "activo=true": {
+      "model": "guapisimo:block/altar_tapu_bulu"
+    },
+    "activo=false": {
+      "model": "guapisimo:block/altar_tapu_bulu_apagado"
+    }
+  }
+}

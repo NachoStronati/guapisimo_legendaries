@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AFA",
+    "FDF",
+    "AFA"
+  ],
+  "key": {
+    "F": { "item": "guapisimo:fragmento_diamante_rosa" },
+    "A": { "item": "minecraft:amethyst_shard" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "id": "guapisimo:corazon_rosa",
+    "count": 1
+  }
+}

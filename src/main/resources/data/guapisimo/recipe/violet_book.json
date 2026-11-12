@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:leather" },
+    { "item": "guapisimo:pagina_violeta" },
+    { "item": "guapisimo:pagina_violeta" },
+    { "item": "guapisimo:pagina_violeta" },
+    { "item": "guapisimo:pagina_violeta" },
+    { "item": "guapisimo:pagina_violeta" },
+    { "item": "guapisimo:pagina_violeta" },
+    { "item": "guapisimo:pagina_violeta" },
+    { "item": "guapisimo:pagina_violeta" }
+  ],
+  "result": {
+    "id": "guapisimo:violet_book",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "activo=true": {
+      "model": "guapisimo:block/altar_miraidon"
+    },
+    "activo=false": {
+      "model": "guapisimo:block/altar_miraidon_apagado"
+    }
+  }
+}

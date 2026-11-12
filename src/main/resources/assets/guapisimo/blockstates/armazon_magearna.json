@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "corazon=false,engranaje=false,muelle=false,placa=false": {
+      "model": "guapisimo:block/armazon_magearna_0"
+    },
+    "corazon=false,engranaje=false,muelle=false,placa=true": {
+      "model": "guapisimo:block/armazon_magearna_1"
+    },
+    "corazon=false,engranaje=false,muelle=true,placa=false": {
+      "model": "guapisimo:block/armazon_magearna_1"
+    },
+    "corazon=false,engranaje=false,muelle=true,placa=true": {
+      "model": "guapisimo:block/armazon_magearna_2"
+    },
+    "corazon=false,engranaje=true,muelle=false,placa=false": {
+      "model": "guapisimo:block/armazon_magearna_1"
+    },
+    "corazon=false,engranaje=true,muelle=false,placa=true": {
+      "model": "guapisimo:block/armazon_magearna_2"
+    },
+    "corazon=false,engranaje=true,muelle=true,placa=false": {
+      "model": "guapisimo:block/armazon_magearna_2"
+    },
+    "corazon=false,engranaje=true,muelle=true,placa=true": {
+      "model": "guapisimo:block/armazon_magearna_3"
+    },
+    "corazon=true,engranaje=false,muelle=false,placa=false": {
+      "model": "guapisimo:block/armazon_magearna_0"
+    },
+    "corazon=true,engranaje=false,muelle=false,placa=true": {
+      "model": "guapisimo:block/armazon_magearna_1"
+    },
+    "corazon=true,engranaje=false,muelle=true,placa=false": {
+      "model": "guapisimo:block/armazon_magearna_1"
+    },
+    "corazon=true,engranaje=false,muelle=true,placa=true": {
+      "model": "guapisimo:block/armazon_magearna_2"
+    },
+    "corazon=true,engranaje=true,muelle=false,placa=false": {
+      "model": "guapisimo:block/armazon_magearna_1"
+    },
+    "corazon=true,engranaje=true,muelle=false,placa=true": {
+      "model": "guapisimo:block/armazon_magearna_2"
+    },
+    "corazon=true,engranaje=true,muelle=true,placa=false": {
+      "model": "guapisimo:block/armazon_magearna_2"
+    },
+    "corazon=true,engranaje=true,muelle=true,placa=true": {
+      "model": "guapisimo:block/armazon_magearna_completo"
+    }
+  }
+}

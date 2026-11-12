@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "guapisimo",
+	"version": "${version}",
+	"name": "Guapisimo Legendaries",
+	"description": "Earn Cobblemon legendaries through unique challenges, rituals and hidden temples.",
+	"authors": ["Nacheet"],
+	"license": "All-Rights-Reserved",
+	"icon": "assets/guapisimo/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"es.nacheet.legendaries.AltaresLegendarios"
+		],
+		"client": [
+			"es.nacheet.legendaries.AltaresLegendariosCliente"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*",
+		"cobblemon": ">=1.8.4",
+		"mega_showdown": "*",
+		"chipped": "*"
+	}
+}

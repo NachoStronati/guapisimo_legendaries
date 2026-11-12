@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    "PFP",
+    " T "
+  ],
+  "key": {
+    "S": { "item": "minecraft:string" },
+    "P": { "item": "minecraft:paper" },
+    "F": { "item": "guapisimo:flor_recuerdo" },
+    "T": { "item": "minecraft:torch" }
+  },
+  "result": {
+    "id": "guapisimo:farol_festival",
+    "count": 1
+  }
+}

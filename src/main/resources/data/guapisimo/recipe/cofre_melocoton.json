@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MMM",
+    "BCB",
+    "MMM"
+  ],
+  "key": {
+    "M": { "item": "minecraft:mangrove_planks" },
+    "B": { "item": "cobblemon:pecha_berry" },
+    "C": { "item": "minecraft:chest" }
+  },
+  "result": {
+    "id": "guapisimo:cofre_melocoton",
+    "count": 1
+  }
+}

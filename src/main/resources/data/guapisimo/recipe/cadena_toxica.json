@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CAC",
+    "ALA",
+    "CAC"
+  ],
+  "key": {
+    "C": { "item": "minecraft:chain" },
+    "A": { "item": "minecraft:spider_eye" },
+    "L": { "item": "cobblemon:black_sludge" }
+  },
+  "result": {
+    "id": "guapisimo:cadena_toxica",
+    "count": 1
+  }
+}

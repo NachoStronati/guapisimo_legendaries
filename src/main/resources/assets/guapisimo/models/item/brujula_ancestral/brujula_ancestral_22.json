@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "guapisimo:item/brujula_ancestral/brujula_ancestral_22"
+  }
+}

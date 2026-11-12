@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "OGO",
+    "GCG",
+    "OGO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:gold_ingot"
+    },
+    "G": {
+      "item": "cobblemon:electric_gem"
+    },
+    "C": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "id": "guapisimo:sello_melemele",
+    "count": 1
+  }
+}

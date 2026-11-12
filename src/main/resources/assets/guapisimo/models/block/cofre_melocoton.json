@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "top": "guapisimo:block/cofre_melocoton_top",
+    "bottom": "guapisimo:block/cofre_melocoton_bottom",
+    "side": "guapisimo:block/cofre_melocoton_side",
+    "front": "guapisimo:block/cofre_melocoton_front"
+  }
+}

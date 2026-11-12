@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "guapisimo:templo_guardian_ulaula",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 64,
+    "separation": 32,
+    "salt": 718297394
+  }
+}

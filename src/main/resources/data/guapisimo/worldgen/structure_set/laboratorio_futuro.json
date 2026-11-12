@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "guapisimo:laboratorio_futuro",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 64,
+    "separation": 32,
+    "salt": 712237894
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "guapisimo:templo_guardian_poni",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 64,
+    "separation": 32,
+    "salt": 718293561
+  }
+}
