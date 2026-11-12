@@ -1,0 +1,9 @@
+{
+  "primeros_pasos.mdx": { "name": "Primeros pasos", "icon": "Rocket" },
+  "legendarios": { "name": "Legendarios", "icon": "Sparkles" },
+  "objetos.mdx": { "name": "Objetos y bloques", "icon": "Package" },
+  "configuracion.mdx": { "name": "Configuración", "icon": "Settings" },
+  "compatibilidad.mdx": { "name": "Compatibilidad", "icon": "Puzzle" },
+  "preguntas_frecuentes.mdx": { "name": "Preguntas frecuentes", "icon": "CircleHelp" },
+  "cambios.mdx": { "name": "Cambios", "icon": "History" }
+}

@@ -1,0 +1,46 @@
+# Primeros pasos
+
+## Instalación
+
+1. Instala **Fabric Loader** para Minecraft **1.21.1**.
+2. Pon en la carpeta `mods` estos mods:
+   - [Fabric API](https://modrinth.com/mod/fabric-api)
+   - [Cobblemon](https://modrinth.com/mod/cobblemon) **1.8.4** o superior
+   - **Cobblemon: Mega Showdown**
+   - **Chipped**
+   - **Guapisimo Legendaries**
+3. Abre el juego. En el modo creativo verás una pestaña nueva: **Guapisimo Legendaries**.
+
+
+## Cómo funciona
+
+Cada legendario se consigue con su propio método, pero casi todos siguen el mismo esquema:
+
+1. **Consigue el objeto clave**: fabricándolo, encontrándolo en cofres o con arqueología, o completando una misión.
+2. **Cumple las condiciones**: a una hora concreta, en un bioma concreto, con un equipo concreto...
+3. **Úsalo** y el legendario aparecerá delante de ti, listo para combatir.
+
+Si te falta algo, el juego te lo dice: al usar el objeto aparece un mensaje con lo que falta, como *"La pluma solo brilla al amanecer"*.
+
+> [!TIP]
+> Pasa el ratón por encima de cada objeto. Los textos de ayuda (tooltips) son las **pistas** del método.
+
+## Tres tipos de invocación
+
+| Tipo | Legendarios | Qué pasa |
+|---|---|---|
+| **Altar** | Tapus, Koraidon, Miraidon | Llevas la ofrenda al altar de su templo. Cada altar se usa **una sola vez**. |
+| **Objeto** | Okidogi, Munkidori, Fezandipiti, Diancie, Jirachi | Usas el objeto cuando se cumplen las condiciones. Después tiene un tiempo de espera. |
+| **Bloque** | Pecharunt, Ogerpon, Magearna | Colocas un bloque y el legendario llega más tarde: al amanecer, con la luna llena o al darle energía. |
+
+## Tiempos del juego
+
+Varios métodos dependen de la hora. Así los cuenta el mod:
+
+| Momento | Ticks del día | Cómo reconocerlo |
+|---|---|---|
+| **Noche** | 13000 – 23000 | Desde que se pone el sol hasta poco antes de que salga |
+| **Amanecer** | 23000 – 1000 | Mientras sale el sol |
+| **Luna llena** | fase 0 | Una de cada 8 noches |
+
+Para saber la hora exacta puedes usar `/time query daytime`.

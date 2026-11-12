@@ -1,0 +1,38 @@
+# Configuración
+
+El mod crea el archivo `config/guapisimo.json` la primera vez que abres el juego. Para cambiar algo, edítalo con el juego cerrado y vuelve a abrirlo.
+
+```json guapisimo.json
+{
+  "probabilidadShiny": 0.05,
+  "esperaInvocacionTicks": 24000,
+  "capturasSello": 30,
+  "okidogi": {
+    "victoriasNecesarias": 25,
+    "alturaMinima": 120
+  },
+  "fezandipiti": {
+    "amistadNecesaria": 200,
+    "tamanoEquipo": 4
+  }
+}
+```
+
+## Opciones
+
+| Opción | Por defecto | Qué hace |
+|---|---|---|
+| `probabilidadShiny` | `0.05` | Probabilidad de que un legendario salga shiny. `0.05` es un 5 %, `1` sería siempre. |
+| `esperaInvocacionTicks` | `24000` | Tiempo de espera después de usar un objeto invocador (Cadena, Ídolo, Pluma, Corazón Rosa, Estrella). 24000 ticks son 1 día de Minecraft. |
+| `capturasSello` | `30` | Capturas necesarias para completar un sello de los Tapus. |
+| `okidogi.victoriasNecesarias` | `25` | Victorias para llenar la Cadena Tóxica. |
+| `okidogi.alturaMinima` | `120` | Altura mínima para usar la Cadena Tóxica. |
+| `fezandipiti.amistadNecesaria` | `200` | Amistad mínima de cada Pokémon del equipo (el máximo en Cobblemon es 255). |
+| `fezandipiti.tamanoEquipo` | `4` | Pokémon mínimos en el equipo para usar la Pluma Vanidosa. |
+
+> [!WARNING]
+> Si el archivo tiene un error de escritura (por ejemplo, falta una coma), el mod usa los valores por defecto y **no** sobrescribe tu archivo, para que puedas arreglarlo. El error aparece en el registro (`latest.log`).
+
+## Lo que no se puede configurar
+
+Los niveles de los legendarios, los 3 IVs perfectos y las probabilidades de loot son fijos. Así la experiencia es igual para todos.

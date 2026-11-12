@@ -1,0 +1,11 @@
+{
+  "schema": "1",
+  "id": "guapisimo",
+  "modid": "guapisimo",
+  "platforms": {
+    "curseforge": "guapisimo-legendaries"
+  },
+  "owners": [
+    "NachoStronati"
+  ]
+}
